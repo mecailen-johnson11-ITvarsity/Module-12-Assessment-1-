@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+}
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image:url( 'images/1163661.jpg' );
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    font-size: 16px;
+
+    height:100%;
+}
+
+#menu{
+    width: 100%;
+    padding-top: 100px;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+form{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 2%;
+    color: rgb(255, 255, 255);
+}
+
+input{
+    background-color: rgb(255, 249, 249);
+    margin-left: 12px ;
+}
+
+.loginbutton{
+    display: inline-block;
+    text-decoration: none;
+    background-color:unset;
+    color: snow;
+    text-align: center;
+    
+    font-weight: 700;
+    padding: 8px 0px 0px 0px;
+}
